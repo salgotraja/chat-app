@@ -1,1 +1,1 @@
-Sample Node.js chat app using socket.io apis
+Sample Node.js v3 chat app using socket.io apis
